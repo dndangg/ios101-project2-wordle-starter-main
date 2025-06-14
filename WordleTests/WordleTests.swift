@@ -11,7 +11,7 @@ import XCTest
 final class WordleTests: XCTestCase {
 
     override func setUpWithError() throws {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
+        // Put setup code here. This method is called before the invocation of each test method in the class. test
     }
 
     override func tearDownWithError() throws {
