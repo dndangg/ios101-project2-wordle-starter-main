@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My main troubles this time came with the video walkthrough. After a lot of failure and fiddling, I came to the conclusion that embedding an imgur upload into GitHub has around a 5 MB limit. Above that, the videos fail to embed.
 
 ## License
 
