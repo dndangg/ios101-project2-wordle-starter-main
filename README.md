@@ -1,19 +1,19 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Expanded Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Dylan Dang**
 
-**Name of your app** is an app that ... [TODO] 
+**Expanded Wordle** is an app that is an app that allows users to play a stripped-down version of wordle, a multi-round word guessing game that narrows down letters after each round. Built off the simple version in project 1, this version adds more functionalities: the ability to change the numbers of letters per guess, the number of guesses, themed words, and an alien wordle feature.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [x] User can change the number of letters per row (the length of the goal word)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can select a new themed set to pull the goal word from
+- [x] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## Video Walkthroughs
 
 ![Imgur](https://i.imgur.com/gkvF09C.gif)
 ![Imgur](https://i.imgur.com/0hcK6wP.gif)
@@ -35,7 +35,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Dylan Dang
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
